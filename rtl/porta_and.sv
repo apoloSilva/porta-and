@@ -1,5 +1,3 @@
-`timescale 1ns/1ps
-
 module porta_and (
     input  logic a,
     input  logic b,
