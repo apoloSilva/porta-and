@@ -1,3 +1,5 @@
+`timescale 1ns/1ps // adicionado, resolvendo o erro
+
 module porta_and (
     input  logic a,
     input  logic b,
